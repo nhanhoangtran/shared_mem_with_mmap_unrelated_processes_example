@@ -1,4 +1,5 @@
 # shared_mem_with_mmap_unrelated_processes_example
+# POSIX shared memory IPC example (shm_open, mmap), working on Linux and macOS
 
 # git cmd:
 echo "# shared_mem_with_mmap_unrelated_processes_example" >> README.md
